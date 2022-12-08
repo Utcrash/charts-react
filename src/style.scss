@@ -1,0 +1,14 @@
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+
+
+.gauge {
+    display: block;
+    min-width: 150px;
+    max-width: 400px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.hover {
+    cursor: pointer;
+}
